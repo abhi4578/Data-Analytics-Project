@@ -22,5 +22,5 @@ This project considers the forecast data given by different sources namely CDC, 
 # How To Execute?
 
     1.  Create one Python environment.
-    2.  Install al the dependencies.
+    2.  Install all the dependencies.
     3.  In jupyter notebook run ./ensemble model/ensemble predictor.ipynb
