@@ -20,6 +20,7 @@ DA project for odd sem 2019
   2.  ensemble model:    This has one programming file with ensemble models, and outputs of single predictors were stored here in .npy                              file extension.
   
 # How To execute?
+
     1.  Create one Python environment.
     2.  Install al the dependencies.
     3.  In jupyter notebook run ./ensemble model/ensemble predictor.ipynb
