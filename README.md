@@ -1,5 +1,5 @@
 # DA_PROJECT_2019
-DA project for odd sem 2019
+This project considers the forecast data given by different sources namely CDC, Twitter, Athena health, Google Trends and Google Flu trends, to forecast flu rate using various ensemble models.
 
 # Dependencies:
   1.  numpy
